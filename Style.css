@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+
+.btn a {
+text-decoration: none;
+color: aquamarine;
+    
+   
+}
+
+#boederRadious{
+    border-radius: 30px;;
+}
+.btn {
+    border-radius: 30px;
+}
+.sidebar {
+    height: 100%;
+    background-color: aquamarine;
+  
+   
+}
